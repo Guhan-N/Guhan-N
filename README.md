@@ -14,8 +14,8 @@
 - 🎓 3rd-year B.Tech Information Technology student at MIT, Pondicherry – Graduating May 2027
 - 🌐 Lead Developer of [Cyber Council](https://cybercouncil.netlify.app) – A full-stack cybersecurity awareness and legal support platform
 - ➤ Built with contributions from
-- 🖌 Lohitha – UI/UX Design
-- 💾 Francis – Cybersecurity Researcher
+   - 🖌 Lohitha – UI/UX Design
+   - 💾 Francis – Cybersecurity Researcher
 - 🎮 Creator of GameHub – A PC game-sharing platform with torrent links, filters, real-time search, and Supabase Auth
 - 🔐 Passionate about leveraging technology to solve real-world problems, especially through web development, and dedicated to continuous learning and building impactful projects that improve digital experiences.
 
