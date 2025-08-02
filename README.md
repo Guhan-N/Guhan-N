@@ -9,7 +9,6 @@
 
 ## 🚀 About Me
 
-<img align="right" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXBodTAzOWUxa2w3M2VjenU0eTVpbXU4dnQ0bmpkNGQ5ZjRrMXZpdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/oagcrAZu2IvV0ijkiX/giphy.gif" height="180" alt="Coding GIF" />
 
 - 🎓 3rd-year B.Tech Information Technology student at MIT, Pondicherry – Graduating May 2027
 - 🌐 Lead Developer of [Cyber Council](https://cybercouncil.netlify.app) – A full-stack cybersecurity awareness and legal support platform
