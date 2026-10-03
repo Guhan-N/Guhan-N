@@ -10,7 +10,7 @@
 ## 🚀 About Me
 
 
-- 🎓 3rd-year B.Tech Information Technology student at MIT, Pondicherry – Graduating May 2027
+- 🎓 4th-year B.Tech Information Technology student at MIT, Pondicherry – Graduating May 2027
 - 🌐 Lead Developer of [Cyber Council](https://cybercouncil.netlify.app) – A full-stack cybersecurity awareness and legal support platform
 - ➤ Built with contributions from
    - 🖌 Lohitha – UI/UX Design
